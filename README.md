@@ -1,5 +1,11 @@
 # String-Library
 
+For this project assignment, I created a string library.
 
-<img src='https://imgur.com/IEQeVvB' title='Output' width='' alt='Output' />
-![img](https://i.imgur.com/IEQeVvB.png)
+### Methods used:
+
+* is_Alpha: Add info
+* is_Digit: Add Info
+
+<img src='https://imgur.com/IEQeVvB.png' title='Output' width='' alt='Output' />
+
