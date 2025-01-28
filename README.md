@@ -9,5 +9,8 @@ For this project assignment, I created a string library.
 
 ### Output of the program
 
-<img src='https://imgur.com/IEQeVvB.png' title='Output' width='' alt='Output' />
+<img src='https://i.imgur.com/Hvr3cwg.mp4' title='Output' width='' alt='Output' />
 
+[Imgur](https://imgur.com/Hvr3cwg)
+
+![alt text](https://i.imgur.com/Hvr3cwg.mp4)
